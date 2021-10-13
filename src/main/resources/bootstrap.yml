@@ -1,0 +1,14 @@
+application:
+  bcp:
+    api:
+      path: /currency-exchange/v1.0
+spring:
+  application:
+    name: currency-exchange-v1.0
+  main:
+    allow-bean-definition-overriding: true
+info:
+  project:
+    version: 1.0.0
+    title: Currency Exchange
+    description: Gestiona el tipo de cambio de una moneda

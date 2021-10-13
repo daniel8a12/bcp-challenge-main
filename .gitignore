@@ -1,0 +1,16 @@
+.settings/**
+target/**
+.classpath
+.project
+.springBeans
+.idea/**
+.classpath
+.factorypath
+.project
+.settings/org.eclipse.jdt.apt.core.prefs
+.settings/org.eclipse.jdt.core.prefs
+.settings/org.eclipse.m2e.core.prefs
+hs_err_pid47532.log
+replay_pid47532.log
+src/main/resources/bootstrap-local.yml
+/.idea/
